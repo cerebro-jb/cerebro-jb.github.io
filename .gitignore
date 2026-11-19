@@ -1,0 +1,6 @@
+# 19/11/2026: este repo solo publica la web de Cerebro (GitHub Pages). Todo lo demas de Panel-personal (scripts, claves, datos) NUNCA se sube.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!robots.txt
